@@ -49,7 +49,6 @@
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/Components/Common"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/STM32H7B3I-EVAL"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/CMSIS/Include"/>
-									<listOptionValue builtIn="false" value="../../../../../Middlewares/ST/STM32_Audio/Addons/PDM/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/CMSIS/Device/ST/STM32H7xx/Include"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/Components"/>
 									<listOptionValue builtIn="false" value="../../../../../Utilities/lcd"/>
@@ -133,7 +132,6 @@
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/Components/Common"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/STM32H7B3I-EVAL"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/CMSIS/Include"/>
-									<listOptionValue builtIn="false" value="../../../../../Middlewares/ST/STM32_Audio/Addons/PDM/Inc"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/CMSIS/Device/ST/STM32H7xx/Include"/>
 									<listOptionValue builtIn="false" value="../../../../../Drivers/BSP/Components"/>
 									<listOptionValue builtIn="false" value="../../../../../Utilities/lcd"/>

@@ -338,7 +338,7 @@
               <MiscControls></MiscControls>
               <Define>USE_HAL_DRIVER,STM32H735xx</Define>
               <Undefine></Undefine>
-              <IncludePath>../Inc;../../../../Drivers/CMSIS/Include;../../../../Drivers/CMSIS/Device/ST/STM32H7xx/Include;../../../../Drivers/STM32H7xx_HAL_Driver/Inc;../../../../Drivers/BSP/STM32H735G-DK;../../../../Drivers/BSP/Components/Common;../../../../Utilities/Fonts;../../../../Utilities/CPU;../../../../Utilities/lcd;../../../../Middlewares/ST/STM32_Audio/Addons/PDM/Inc</IncludePath>
+              <IncludePath>../Inc;../../../../Drivers/CMSIS/Include;../../../../Drivers/CMSIS/Device/ST/STM32H7xx/Include;../../../../Drivers/STM32H7xx_HAL_Driver/Inc;../../../../Drivers/BSP/STM32H735G-DK;../../../../Drivers/BSP/Components/Common;../../../../Utilities/Fonts;../../../../Utilities/CPU;../../../../Utilities/lcd</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
